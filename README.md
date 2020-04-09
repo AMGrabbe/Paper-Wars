@@ -6,4 +6,4 @@ Paper dooodle themed 2D shooter.
 * Unity version: 2019.2.8f1
 
 ## Demo
-![alt text] (Project Files/video/demo.gif)
+![alt text](Project Files/video/demo.gif)
