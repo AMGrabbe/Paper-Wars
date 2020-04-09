@@ -6,4 +6,5 @@ Paper dooodle themed 2D shooter.
 * Unity version: 2019.2.8f1
 
 ## Demo
-![alt text](ProjectFiles/video/demo.gif)
+![alt text](Paper-Wars/Project Files/video/
+demo.gif)
